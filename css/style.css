@@ -46,7 +46,7 @@ body{
     color: var(--white);
 }
 .header{
-    background-image: url(../img/bg.jpg);
+    background-image: url(../img/banner-02.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment:fixed;
@@ -122,40 +122,40 @@ body{
         content: ' |';
     }
     31.4%{
-        content: ' L|';
+        content: ' F|';
     }
     34%{
-        content: ' La|';
+        content: ' Fa|';
     }
     36.6%{
-        content: ' Lar|';
+        content: ' Fat|';
     }
     39.2%{
-        content: ' Larr|';
+        content: ' Fatm|';
     }
     41.8%{
-        content: ' Larry|';
+        content: ' Fatma|';
     }
     44.4%{
-        content: ' Larry D|';
+        content: ' Fatma F|';
     }
     47%{
-        content: ' Larry Da|';
+        content: ' Fatma Fa|';
     }
     49.6%{
-        content: ' Larry Dan';
+        content: ' Fatma Faw';
     }
     52.2%{
-        content: ' Larry Dani';
+        content: ' Fatma Fawz';
     }
     54.8%{
-        content: ' Larry Danie|';
+        content: ' Fatma Fawzy|';
     }
     57.4%{
-        content: ' Larry Daniel|';
+        content: ' Fatma Fawzy|';
     }
     60%{
-        content: ' Larry Daniel|';
+        content: ' Fatma Fawzy|';
     }
     62.6%{
         content: ' |';
@@ -170,25 +170,25 @@ body{
         content: ' De|';
     }
     73%{
-        content: ' Des|';
+        content: ' Dev|';
     }
     75.6%{
-        content: ' Desi|';
+        content: ' Deve|';
     }
     78.2%{
-        content: ' Desig|';
+        content: ' Devel|';
     }
     80%{
-        content: '  Design|';
+        content: '  Develo|';
     }
     85%{
-        content: ' Designe|';
+        content: ' Develop|';
     }
     90%{
-        content: ' Designer|';
+        content: ' Developer|';
     }
     94%{
-        content: ' Designer|';
+        content: ' Develope|';
     }
     98%{
         content: ' |';
@@ -277,7 +277,7 @@ body{
     width: 95%;
 }
 .col2{
-    width: 80%;
+    width: 65%;
 }
 .col3{
     width: 90%;
@@ -618,4 +618,7 @@ footer{
     word-spacing: 2px;
     line-height: 1.6;
     color: #748182;
+}
+.demo{
+
 }
